@@ -1,0 +1,17 @@
+• Game idea (short description)
+The young boy finds a mansion in the forest, when he goes inside the mansion, he feels dizzy and eventually lost conscious. When he wakes up, he realizes that he is trapped inside the dark room. He needs to find the key so that he can escape the room.
+
+• Scenario and characters description (include placeholder graphics, drafts, references)
+Inside the dark room. The character is a young boy who likes to adventure, he wonders what makes him to lost conscious.
+
+• Characters’ actions and goals
+The character can move with the arrow keys, interact with objects inside the room, the goal is to find a key to escape the room.
+
+• Game Win/Lose conditions
+There will be a time limit for this game, if the player can not able to find the key before the timer reaches 0, it will be game over, otherwise the player wins.
+
+• Progression of levels
+Every time the ghost touches the character, the timer will decrease faster. The more it decreases, the more ghosts will appear, this will be a challenging point to the player.
+
+• Sources of inspiration (other games, movies, etc that inspired your idea)
+An app called Can You Escape
